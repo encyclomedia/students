@@ -8,5 +8,8 @@ By Mónica V. Martins, Daniel Tolledo, Jorge Machado, Luís M. T. Baptista, and 
 
 Published in Trends and Applications in Information Systems and Technologies. Journal: Advances in Intelligent Systems and Computing series. DOI: http://www.doi.org/10.1007/978-3-030-72657-7_16
 
-
+## Data
 [Dataset Link](https://archive-beta.ics.uci.edu/ml/datasets/predict+students+dropout+and+academic+success)
+
+## Environment
+This project was saved and completely done in IBM Watson Studio using Python and SciKit-Learn. 
